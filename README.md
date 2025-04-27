@@ -6,7 +6,7 @@ O foco principal é praticar a criação de rotas e processadores no Apache Came
 ---
 
 ## 📝 Enunciado
-Desenvolva uma aplicação Spring Boot (Java 11) que disponibilize um **endpoint HTTP POST** que receba uma requisição para envio de e-mail.
+Desenvolva uma aplicação Spring Boot (Java 11 ou versão superior que seja LTS) que disponibilize um **endpoint HTTP POST** que receba uma requisição para envio de e-mail.
 
 O fluxo deve ser gerenciado inteiramente através de uma **rota Camel**, com a utilização de **bean** para chamar o envio de e-mail via **repository**.
 A validação dos dados recebidos deve ser feita utilizando um **Processor**.
