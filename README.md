@@ -1,6 +1,6 @@
 # 🛠️ Exercício de Apache Camel + Spring Boot + JavaMailSender
 ## 🎯 Objetivo
-Neste exercício, você irá construir uma aplicação simples utilizando **Apache Camel**, **Spring Boot** e o **JavaMailSender** para envio de e-mails.
+Neste exercício criado para auxiliar colegas de trabalho a aprender a tecnologia Apacha Camel, você irá construir uma aplicação simples utilizando **Apache Camel**, **Spring Boot** e o **JavaMailSender** para envio de e-mails.
 O foco principal é praticar a criação de rotas e processadores no Apache Camel, integração entre tecnologias e uso de beans para orquestração de serviços.
 
 ---
